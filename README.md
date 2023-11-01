@@ -1,1 +1,1 @@
-# GOGGLES.github.io
+# Goggles.github.io
